@@ -37,3 +37,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   absent.
 - The bindings assume Assimp's default single-precision build (`ai_real =
   f32`); double-precision builds are ABI-incompatible.
+
+[Unreleased]: https://github.com/psiwray-corp/assimp-sys/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/psiwray-corp/assimp-sys/releases/tag/v1.0.0
